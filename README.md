@@ -1,19 +1,22 @@
-软件学院 软件工程 刘响 82339308
+<p>先进实验室-软件工程-时艺轩-82339302</p>
 
-# 注册流程
-已有账号注册图片均来自网络
+[时艺轩的数据挖掘作业](https://github.com/TACERS/SYXDataMining/edit/main/README.md)
 
-1、进入github的官网https://github.com/
+# 数据挖掘大作业
+## 一、注册流程
+### 1.打开github官方网站（https://github.com/）
+![github官网首页](https://github.com/TACERS/SYXDataMining/blob/main/1.png)
+### 2.点击右上角Sign up按钮，进入注册页面
+![注册页面](https://github.com/TACERS/SYXDataMining/blob/main/2.png)
+<p>在此页面输入你的注册邮箱号</p>
 
-![1](https://img-blog.csdnimg.cn/img_convert/5942d91478c81c30b9109b51f25be54d.png) 
+### 3.点击Continue，在光标处设置登陆密码之后创建用户名
+![注册页面](https://github.com/TACERS/SYXDataMining/blob/main/2.png)
 
-2、点击右上角注册按钮sign up，来到注册页面
 
-3、在光标处输入自己的邮箱
 
-![2](https://img-blog.csdnimg.cn/img_convert/4a4df5bd0a2c340b418f7f6073ccee2d.png)
 
-4、点击Continue，继续在光标处创建密码，继续创建用户名
+
 
 5、进行相应的验证，点击 create account 
 
