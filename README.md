@@ -8,25 +8,31 @@
 ![github官网首页](https://github.com/TACERS/SYXDataMining/blob/main/1.png)
 ### 2.点击右上角Sign up按钮，进入注册页面
 ![注册页面](https://github.com/TACERS/SYXDataMining/blob/main/2.png)
-<p>在此页面输入你的注册邮箱号</p>
+<center>在此页面输入你的注册邮箱号</center>
 
 ### 3.点击Continue，在光标处设置登陆密码之后创建用户名
-![注册页面](https://github.com/TACERS/SYXDataMining/blob/main/2.png)
+![注册页面](https://github.com/TACERS/SYXDataMining/blob/main/8.png)
+
+### 4.验证邮箱
+<p>注册邮箱会收到验证链接，点击进行验证</p>
+
+### 5.进入登陆页面
+![注册页面](https://github.com/TACERS/SYXDataMining/blob/main/3.png)
+
+### 6.因为长时间未登录，需要进行设备验证
+![注册页面](https://github.com/TACERS/SYXDataMining/blob/main/4.png)
+
+### 7.我的邮箱收到了一封验证邮件,输入验证码即可登录
+![注册页面](https://github.com/TACERS/SYXDataMining/blob/main/5.png)
+
+## 二、建立一个库
+### 1.
 
 
 
 
 
 
-5、进行相应的验证，点击 create account 
-
-6、这时邮箱就会收到一封邮件，输入邮件中的数字页面自动跳转
-
-![3](https://img-blog.csdnimg.cn/25b20ac4d0994b45a535443f5593cfda.png)
-
-7、根据自身情况进行相应个性化设置
-
-![4](https://img-blog.csdnimg.cn/118a769bcbb44a09897cf8e6a36250d5.png)
 
 8、创建成功
 # 希望学习的内容
