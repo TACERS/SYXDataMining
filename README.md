@@ -6,5 +6,5 @@
 # 数据挖掘大作业
 ## 一、注册流程
 ### 1.打开github官方网站
-![github官网首页]("")
+![github官网首页](https://github.com/TACERS/SYXDataMining/blob/main/1.png)
 ### 2.点击
