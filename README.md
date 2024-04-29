@@ -8,7 +8,7 @@
 ![github官网首页](https://github.com/TACERS/SYXDataMining/blob/main/1.png)
 ### 1.2 点击右上角Sign up按钮，进入注册页面
 ![注册页面](https://github.com/TACERS/SYXDataMining/blob/main/2.png)
-<center>在此页面输入你的注册邮箱号</center>
+<p align="center">在此页面输入你的注册邮箱号</p>
 
 ### 1.3 点击Continue，在光标处设置登陆密码之后创建用户名
 ![注册页面](https://github.com/TACERS/SYXDataMining/blob/main/8.png)
