@@ -37,7 +37,7 @@
 
 ## 三、上传PPT到库中
 ### 3.1 在home界面点击add file下拉框
-![上传页面](https://github.com/TACERS/SYXDataMining/blob/main/7.png)
+![上传页面](https://github.com/TACERS/SYXDataMining/blob/main/10.png)
 
 ### 3.2 拖拽或选择路径上传PPT
 ![上传页面](https://github.com/TACERS/SYXDataMining/blob/main/7.png)
@@ -46,11 +46,5 @@
 ![上传页面](https://github.com/TACERS/SYXDataMining/blob/main/9.png)
 
 
-# 希望学习的内容
-自然语言处理，包括词汇处理（把偶哦词汇表的构建、词嵌入的生成、OOV处理等）、句法分析（包括词性标注、句法分析等）、语义理解（包括词义消歧、语义标注、实体识别、语义关系抽取等）等。
+# 四、希望学习的内容
 
-数据的处理和准备，包括清洗、标记、分词、向量化等。
-
-模型训练和调优，包括选择合适的模型架构、优化超参数、正则化等。
-
-生成算法和技巧，包括贪婪搜索、束搜索、温度调节等。
